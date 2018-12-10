@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">esStockApplication</string>
+
+    <string name="intro">esPlease add a stock</string>
+    <string name="price">esCurrent Stock Price:</string>
+    <string name="search_hint">esSearch for Stock</string>
+</resources>
